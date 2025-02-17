@@ -1,8 +1,8 @@
 ## TOPIC: Robust Motion Segmentation
 
 ### Contributors:
-- Pınar Erbil - 10953514
-- Prachi Kedar - 10948167
+- Pınar Erbil 
+- Prachi Kedar 
 
 This is a readme file for the code. The repository is available [1]. We are listing the parts where we added the code.
 
